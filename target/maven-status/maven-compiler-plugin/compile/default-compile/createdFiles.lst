@@ -1,0 +1,11 @@
+com\mycompany\chat\rmi\ChatService.class
+com\mycompany\chat\rmi\ChatRoomRemote.class
+com\mycompany\chat\rmi\ClientCallback.class
+com\mycompany\chat\rmi\ChatRoom.class
+com\mycompany\chat\rmi\Chatter.class
+com\mycompany\chat\rmi\ChatServer.class
+com\mycompany\chat\rmi\ChatClient.class
+com\mycompany\chat\rmi\ClientCallbackImpl.class
+com\mycompany\chat\rmi\CHATRMI.class
+com\mycompany\chat\rmi\ChatServiceRemote.class
+com\mycompany\chat\rmi\Flag.class
